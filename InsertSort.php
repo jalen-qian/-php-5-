@@ -85,5 +85,5 @@ $insertSort->add(78);
 $insertSort->add(24);
 $insertSort->add(56);
 $insertSort->display();
-$insertSort->sort(); //执行选择排序排序
+$insertSort->sort(); //执行插入排序
 $insertSort->display();
